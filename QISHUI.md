@@ -1,5 +1,9 @@
 # 汽水音乐（macOS）接入说明
 
+维护者：`liupanaibiyao-maker`  
+仓库：https://github.com/liupanaibiyao-maker/folia-qishui  
+安装包：https://github.com/liupanaibiyao-maker/folia-qishui/releases/tag/v0.7.21-qishui
+
 这是 Folia 0.7.21 的源码分支，增加了汽水音乐在线音源：
 
 - 搜索、歌曲墙、账号歌单、歌手页、探索页

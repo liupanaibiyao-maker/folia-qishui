@@ -1,11 +1,19 @@
 {
-  "name": "folia-major",
+  "name": "folia-qishui",
   "productName": "Folia",
   "desktopName": "folia-major.desktop",
-  "description": "Lyrics Reimagine",
+  "description": "Folia 0.7.21 with Qishui Music provider (macOS)",
   "author": {
-    "name": "chthollyphile",
-    "email": "chthollyphile@users.noreply.github.com"
+    "name": "liupanaibiyao-maker",
+    "email": "liupanaibiyao-maker@users.noreply.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liupanaibiyao-maker/folia-qishui.git"
+  },
+  "homepage": "https://github.com/liupanaibiyao-maker/folia-qishui",
+  "bugs": {
+    "url": "https://github.com/liupanaibiyao-maker/folia-qishui/issues"
   },
   "private": true,
   "version": "0.7.21",
@@ -79,8 +87,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "chthollyphile",
-        "repo": "folia-major"
+        "owner": "liupanaibiyao-maker",
+        "repo": "folia-qishui"
       }
     ],
     "files": [

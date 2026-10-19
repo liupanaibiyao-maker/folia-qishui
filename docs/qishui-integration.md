@@ -406,7 +406,7 @@ hdiutil verify outputs/Folia-0.7.21-arm64-qishui.dmg
 
 ## 9. 从笔记恢复代码的最短路径
 
-1. 下载 `chthollyphile/folia-major` 的 v0.7.21 源码。
+1. 下载 Folia v0.7.21 的上游源码（归属说明见 [NOTICE.md](../NOTICE.md)）。
 2. 按第 1 节建 `src/services/onlineMusic/qishui/` 和 `electron/qishui/`。
 3. 把第 2、3、4、5 节的关键代码接进 provider、bridge 和 main/preload。
 4. 在 `providerRegistry.ts` 注册 `qishui`，三份 i18n 加登录文案。
