@@ -1,4 +1,4 @@
-# 汽水音乐（macOS）接入说明
+# 澄音 · 汽水音乐接入说明
 
 维护者：`liupanaibiyao-maker`  
 仓库：https://github.com/liupanaibiyao-maker/folia-qishui  

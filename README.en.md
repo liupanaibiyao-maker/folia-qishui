@@ -1,8 +1,8 @@
 <div align="center">
 
-# Qishui Music Player · macOS
+# Chengyin
 
-Maintained by `liupanaibiyao-maker` · built on the Folia 0.7.21 core
+macOS music player · maintained by `liupanaibiyao-maker`
 
 [![Release](https://img.shields.io/github/v/release/liupanaibiyao-maker/folia-qishui?label=release)](https://github.com/liupanaibiyao-maker/folia-qishui/releases)
 [![License](https://img.shields.io/github/license/liupanaibiyao-maker/folia-qishui)](LICENSE)
@@ -15,7 +15,7 @@ Maintained by `liupanaibiyao-maker` · built on the Folia 0.7.21 core
 
 ## What this is
 
-This is a macOS desktop player with a built-in Qishui Music provider. It keeps the player, lyrics, library and mod system, and adds Qishui search, library, playback and KRC lyrics.
+Chengyin is a macOS desktop music player with a built-in Qishui Music provider. It keeps the player, lyrics, library and mod system, and adds Qishui search, library, playback and KRC lyrics.
 
 Features:
 

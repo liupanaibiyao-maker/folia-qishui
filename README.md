@@ -1,8 +1,8 @@
 <div align="center">
 
-# 汽水音乐播放器 · macOS 版
+# 澄音 Chengyin
 
-由 `liupanaibiyao-maker` 维护 · 基于 Folia 0.7.21 内核
+macOS 音乐播放器 · 由 `liupanaibiyao-maker` 维护
 
 [![Release](https://img.shields.io/github/v/release/liupanaibiyao-maker/folia-qishui?label=release)](https://github.com/liupanaibiyao-maker/folia-qishui/releases)
 [![License](https://img.shields.io/github/license/liupanaibiyao-maker/folia-qishui)](LICENSE)
@@ -15,7 +15,7 @@
 
 ## 这是什么
 
-这是一个 macOS 桌面播放器，内建汽水音乐在线音源，保留播放器、歌词、曲库和模组系统。
+澄音是一个 macOS 桌面音乐播放器，内建汽水音乐在线音源，保留播放器、歌词、曲库和模组系统。
 
 主要能力：
 
