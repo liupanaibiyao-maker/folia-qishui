@@ -1,8 +1,8 @@
 <div align="center">
 
-# Folia · 汽水音乐版
+# 汽水音乐播放器 · macOS 版
 
-macOS 汽水音乐音源 · 基于 Folia 0.7.21
+由 `liupanaibiyao-maker` 维护 · 基于 Folia 0.7.21 内核
 
 [![Release](https://img.shields.io/github/v/release/liupanaibiyao-maker/folia-qishui?label=release)](https://github.com/liupanaibiyao-maker/folia-qishui/releases)
 [![License](https://img.shields.io/github/license/liupanaibiyao-maker/folia-qishui)](LICENSE)
@@ -15,7 +15,7 @@ macOS 汽水音乐音源 · 基于 Folia 0.7.21
 
 ## 这是什么
 
-这是一个以 Folia 0.7.21 为基础的 macOS 构建，增加了汽水音乐在线音源。它保留了 Folia 原有的播放器、歌词、曲库和模组系统，同时把汽水音乐接成内建 provider。
+这是一个 macOS 桌面播放器，内建汽水音乐在线音源，保留播放器、歌词、曲库和模组系统。
 
 主要能力：
 

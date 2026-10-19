@@ -1,8 +1,8 @@
 <div align="center">
 
-# Folia · Qishui Music Edition
+# Qishui Music Player · macOS
 
-macOS Qishui Music provider built on Folia 0.7.21
+Maintained by `liupanaibiyao-maker` · built on the Folia 0.7.21 core
 
 [![Release](https://img.shields.io/github/v/release/liupanaibiyao-maker/folia-qishui?label=release)](https://github.com/liupanaibiyao-maker/folia-qishui/releases)
 [![License](https://img.shields.io/github/license/liupanaibiyao-maker/folia-qishui)](LICENSE)
@@ -15,7 +15,7 @@ macOS Qishui Music provider built on Folia 0.7.21
 
 ## What this is
 
-This is a macOS build based on Folia 0.7.21 with a built-in Qishui Music provider. It keeps Folia's player, lyrics, library and mod system, and adds Qishui search, library, playback and KRC lyrics.
+This is a macOS desktop player with a built-in Qishui Music provider. It keeps the player, lyrics, library and mod system, and adds Qishui search, library, playback and KRC lyrics.
 
 Features:
 

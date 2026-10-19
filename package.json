@@ -2,7 +2,7 @@
   "name": "folia-qishui",
   "productName": "Folia",
   "desktopName": "folia-major.desktop",
-  "description": "Folia 0.7.21 with Qishui Music provider (macOS)",
+  "description": "Qishui Music desktop player for macOS (built on the Folia 0.7.21 core)",
   "author": {
     "name": "liupanaibiyao-maker",
     "email": "liupanaibiyao-maker@users.noreply.github.com"
