@@ -1,19 +1,11 @@
 {
-  "name": "folia-qishui",
+  "name": "folia-major",
   "productName": "Folia",
   "desktopName": "folia-major.desktop",
-  "description": "Chengyin — macOS music player with Qishui Music provider (Folia 0.7.21 core)",
+  "description": "Lyrics Reimagine",
   "author": {
-    "name": "liupanaibiyao-maker",
-    "email": "liupanaibiyao-maker@users.noreply.github.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/liupanaibiyao-maker/folia-qishui.git"
-  },
-  "homepage": "https://github.com/liupanaibiyao-maker/folia-qishui",
-  "bugs": {
-    "url": "https://github.com/liupanaibiyao-maker/folia-qishui/issues"
+    "name": "chthollyphile",
+    "email": "chthollyphile@users.noreply.github.com"
   },
   "private": true,
   "version": "0.7.21",
@@ -87,8 +79,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "liupanaibiyao-maker",
-        "repo": "folia-qishui"
+        "owner": "chthollyphile",
+        "repo": "folia-major"
       }
     ],
     "files": [
@@ -101,7 +93,6 @@
       "build/thumbar/*.png"
     ],
     "asarUnpack": [
-      "electron/qishui/nativeHost.cjs",
       "node_modules/@koromix/koffi-*/**/*.node",
       "node_modules/@lox-audioserver/node-librespot/prebuilds/**/*.node"
     ],
